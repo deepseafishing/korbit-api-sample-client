@@ -23,7 +23,7 @@ This application is made based on the [Node.js Chat](https://github.com/geekuill
 
 ## How to chat with Korbit :
   
-  - 계정 정호
+  - 계정 정보
 
         info
   
@@ -31,7 +31,7 @@ This application is made based on the [Node.js Chat](https://github.com/geekuill
 
         price
 
-  - 시장 현황 주문
+  - 시장 주문 현황
 
         asks
 
@@ -77,7 +77,7 @@ This application is made based on the [Node.js Chat](https://github.com/geekuill
 
   - 원화 입금계좌 할당
   
-        register [은행명] [계좌전호]
+        register [은행명] [계좌번호]
 
   - 사용자의 비트코인 입출금 상태
   
