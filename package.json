@@ -1,0 +1,14 @@
+{
+  "name":"korbit-api-sample-client",
+  "node":"0.6.12",
+  "author":"Korbit",
+  "dependencies": {
+  	"socket.io": "0.9.16",
+  	"express": "3.4.8",
+  	"jade": "1.2.0",
+    "simple-oauth2": "0.1.9"
+  },
+  "scripts": {
+  	"start": "node server.js"
+  }
+}
