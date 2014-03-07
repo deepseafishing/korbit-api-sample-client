@@ -3,20 +3,23 @@ Korbit API Sample Client
 
 This application is made based on the [Node.js Chat](https://github.com/geekuillaume/Node.js-Chat) by [Geekuillaume](http://geekuillau.me/), which utilizes Node.js, Express, Socket.io, Jade, and Bootstrap from Twitter.
 
-## Install the node modules :
+## Install Node JS
+    - http://nodejs.org/download/
 
-    - Go to the project directory and use this command
+## Install Node JS modules :
+    
+    - Go to project directory and issue this command
     - npm install
 
-## Customize the installation :
+## Configuration :
 
     - Input your Korbit API clientID and clientSecret in the config.js file.
     - You can also set the port in config.js. By default it is set to 8080.
 
-## How to use :
+## Usage :
 
     - node server.js
-    - Go to IP:port from any (recent) navigator to start chatting !
+    - Go to http://localhost:port from any (recent) browser to start chatting!
 
 ## How to chat with Korbit :
   
